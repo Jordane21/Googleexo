@@ -1,0 +1,19 @@
+#Onglets{
+	display: flex;
+	justify-content: flex-end;
+}
+#Logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Box{ display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Button{ display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
